@@ -91,19 +91,19 @@ body {
   .order {
     display: inline-block;
     margin: 10px;
-    border-radius: 0 5rem;
-    padding: 1.5rem;
+    border-radius: 0 3rem;
+    padding: 1.2rem;
     box-sizing: border-box;
     text-align: center;
     background-color: #fff;
     color: black;
-    width: 50%;
+    width: 55%;
   }
   
   .order img {
     width: 100%;
     height: 200px;
-    border-radius: 0 5rem 0 0;
+    border-radius: 0 3rem 0 0;
     object-fit: cover;
   }
   
@@ -113,7 +113,6 @@ body {
   }
   
   .order-description {
-    color: #666;
     margin-top: 0.5rem;
   }
   .btn {
